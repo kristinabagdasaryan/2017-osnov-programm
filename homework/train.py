@@ -7,7 +7,7 @@ readstates = []
 word_dict = {}
 nTokens = 0
 POS_dict = {}
-for state in text:
+for line in sys.stdin.readlines():
     readstates.append(json.loads(state))
 
 for state in readstates:

@@ -148,7 +148,7 @@ file4 = open('structure_check.txt', 'w')
 for block in parser(file):
     if check_konst_names(block['sense'], block['konst']):
         file1.write(block['sense'] + '\n')
-    if check_definitions(block['sense']):
+    if check_definitions(block['def_names']):
         file2.write(block['sense'] + '\n')
     if check_tokens(block['sense']):
         file3.write(block['sense'] + '\n')

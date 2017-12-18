@@ -1,0 +1,601 @@
+Что_с_NP-Ins?
+NP_лет_Num-Gen
+VP-Imper_не_VP-Imper_а_Cl
+VP-Imper_–_не_хочу
+NP-Nom_как_VP-Perf
+XP_так_XP
+Ещё_VP-Fut
+NP-Gen2_ADV_бы
+долой_NP-Acc!
+NP-Nom_чуть_было_не_VP-Past
+N_есть_N
+по_словам_NP-Gen
+NP-Nom_ни_в_какую_не_VP
+(как)_по_мне_(так)_Cl
+Не Р ни Х-а
+далеко_до_NP-Gen
+вот_так_N!
+VP_по_принципу_NP-Gen
+Cl_как_есть
+Не_так_уж_и_Adv
+NP_в_NP-Acc
+NP_(быть)_так_себе
+нет_бы_VP
+ничего_PRON-Nom_не_XP
+NP_быть_за_то,_чтобы_Cl
+будь_то_NP-Nom_или_NP-Nom
+ох_и_AP_NP-Nom
+даром_что_Cl
+NP_из_NP-Plur.Gen
+NP_один_другой-Gen_AP-ее
+Сидеть_за_NP-Ins
+до_сих|тех_пор_Cl
+NP-Dat_NP-Nom_к_лицу
+NP-Nom_закатиться|залиться_NP-Dat
+NP num
+NP-Nom_не_преминул_VP-Inf
+Np-Nom_что_VP?
+NP-Nom_на_носу
+V(ipfv)-Imp_себе
+самый AP из+NP-Gen
+(а)_как_же_NP-Nom?
+NP-Nom_иметь_вес_при/в_NP-Loc
+сколько_бы_ни_VP-Past_Cl
+Как_это_CL
+NP-Nom_без_устали_VP.imp
+может_быть_CLAUSE
+Cl_хотя_бы_ради_NP-Gen
+возьми_и_VP-Imper
+такой_же_XP_как_и_NP
+Лишь бы VP
+одинаково_XP
+NP_быть_не_ахти
+NP-Nom_готов_VP-Inf
+VP нечего
+гораздо A-ее|Adv-ее
+NP-Nom_VP_как_NP-Nom
+пусть_XP
+NP_до_смешной-Gen_AP
+NP-Nom_NP-Nom_VP-Inf
+Pron_ещё_V-Fut
+NP-Nom_V_VP
+на месте Х-а
+PRON-Dat_NP-Dat_Cl
+самый AP в+NP-Loc NP
+(быть)_похож_на_NP-Acc
+то-то_Cl
+NP-Pl_и_всё_такое
+NP_Adj-Gen_цвета
+вон_как_V-pst
+как-никак_NP-Nom
+до_NP-Gen(temporal)_Cl
+чёрт_знает_Interrog-Nom
+N_N-Dat_рознь
+NP-Dat_VP-Inf_быть_в_лом
+легко_сказать_VP-Imper
+NP-Nom_создан,_чтобы_Cl
+NP-Nom_носить_NP-Acc
+рассказывай_Cl
+NP_отличаться_NP-Instr
+NP-Acc_звать_NP-Ins|Nom
+еле V
+Так_называемый_NP
+толпа NP-Gen
+NP-Nom_как _таковой
+как_VP-1,_так_и_VP-2
+то-то_Cl
+держать_NP-Nom_при_себе
+под_NP-Ins
+Как_насчёт_NP-Gen?
+не_столь(ко)_Adj,_сколь(ко)_Adj
+NP-Nom_называется
+не_V-inf_же!
+велеть NP VP
+Adv-то_как_Cl!
+вне_зависимости_от_NP-Gen
+вовсе_не_XP
+VP-Inf_(NP-Dat)_негде
+NP-Nom_VP_в_то_время_как_Cl
+один_NP
+NP-Dat_не_до_NP
+мочь-Past_бы_и_VP-Inf
+как-то/что-то_Cl
+быть-Past_бы_NP,_а_Cl
+NP-Nom_сделаться_NP/Adj-Instr
+всё_равно_VP-fut
+VP_более(менее)_Adv,_чем_NP
+NP-Dat_дать_Num_лет_(на_вид)
+что_тут_V-Inf?
+Всё_без_NP_и_без_NP
+Всё_VP
+мы с кем-то
+вот_бы_Cl
+другой_NP-Nom
+вот_это_NP!
+(NP-Nom)_это_в_первую_очередь_Cl
+Быть полным NP-Gen
+ещё_(и)_Cl!
+пришлось_VP
+Ужасно adv
+такой_NP_как/какой/который_XP_Cl
+Как_не_Adv
+Adj-ее_всех
+мастак_VP-Inf|на_NP-Acc
+N-Dat_пора
+Хоть кто/что/когда/где
+Ни_за_что_не_Fut
+что_ни_NP-Nom,_то_NP-Nom
+Noun-Nom и Noun-Nom
+Делать_нечего,_Cl
+NP-Ins_NP-Nom_в_NP-Acc
+VP_NP-Inst
+что_ни_говори(те)_(а)_Cl
+ой/ох/ах/ай_какой_(A)_(NP)!
+VP_как_надо
+Cl_так_нет_(же),Cl
+NP-Acc_привлекать_в_NP-Loc_NP-Nom
+своего_рода_NP
+VP,_небось
+как_бы_ни_VP-Past_Cl
+что_Pro-Dat_N
+Какой еще NP?
+что_A-Gen?
+XP_не_XP_Cl
+не_Х,_а_Х-ище
+NP-Acc_девать(деть)_некуда
+NP-Nom_таки_VP
+в_NP-Loc_NP
+NP-Nom_VP-Inf(-то)_VP_но_Cl
+хоть_VP-Imper_(но/а)
+NP-Acc_прочить_NP-Ins|в_NP-Acc-plural
+ты у меня V-Fut
+весь_в_NP-Loc
+не то что NP
+NP-Nom_и_так_V-Pst
+VP_как_ни_в_чём_не_бывало
+придется_VP
+DiscCl_какой_такой_NP-Nom
+У_NP-Gen_NP_завались
+так_я_(тебе)_и_VP!
+вот-вот_VP-Fut_NP-Nom
+Int-Gen_только_нет_(PP-Loc)!
+давай(те)_VP.1Pl-Fut
+тот_ещё_N
+DiscCl_так,Cl
+Cl_скажи_нет
+то_и_дело_VP
+что_же_NP-Nom_VP-intrans?
+на_основе_NP-Gen
+дело_(не)_в_NP
+S_ещё_бы_S!
+взять_и_VP
+просьба_VP-Inf
+Pron_Num
+NP, да и только
+тоже_мне_NP
+V-Imper_давай
+только NP-Gen не хватало
+не_иначе_как_XP
+будь_то_XP_или_XP
+NP-Dat_не_пристать_VP-Inf
+NP_обошлось_в
+подумаешь_(какой)_Cl
+NP-Dat_только_бы_VP-Inf
+N-Nom_Pro-Nom_и_есть_N-Nom
+V_без_конца
+Станет_3sg_clause
+как_будто_CLAUSE|VP
+PRON-Nom_PRONP-Dat_дать_(Cl_VP-Inf)!
+Больно Adv
+что_это_NP-Nom_VP
+(пойти)_весь_в_NP-Acc
+NP_за_NP-Acc
+до_чего_NP-Nom_Adj/NP-Nom
+NP-Nom_над-VP-ся_над_NP-Ins
+NP-Nom_пребывать_на/в_NP-Loc/у_NP-Gen
+NP-Nom_идти_по_NP-Acc
+ничуть не A-ее|Adv-ее
+А-йший из+NP
+NP-Acc_не_проведешь
+из-за_NP_Gen
+NP-Nom_прямо_VP/NP-Nom
+NP-Nom_VP-Inf_не_дурак
+NP-Nom_пройти/перешагнуть_через_NP-Acc
+всего-навсего_NP
+ещё_бы_Cl
+что_PRON-Dat_NP-Nom_если_Cl?
+NP-Nom_сходить_за_NP-Ins_NP-Dat
+хорошо_бы_VP-inf
+ввиду_того,_ что_Cl
+NP-Nom_VP-past_было,_но_Cl
+едва_не_VP-pst
+кто-то_вроде_NP
+NP-Dat_N_не_(в)_N
+NP-Nom_(NP-Dat)_ни_к_чему
+в_условиях_NP-Gen_Cl
+как_можно_Adv-ее_VP
+чтоб(ы)_PRON_VP-Past!
+ещё Adv-CMPR
+Adv-ее NP-Gen
+Раз NP VP-PST
+куда Adv-ее CLAUSE
+стоить_(NP-Dat)_VP-Prf,_как_Cl
+NP-Nom-NP-Ins_а/но_Cl
+NP-Dat_(не)_VP-ся
+наиболее|наименее A-ый из+NP.gen NP
+NP-Nom_говорить|выступать_перед_NP-Ins
+NP-Nom_слыть_NP-Instr/Adj-Instr
+NP-Nom_NP-Dat_не_NP-Nom
+Хватит V-inf
+у_PRON-Gen_у_NP-Gen_Cl
+нельзя Inf
+VP-pfv_на_раз
+VP-Perf_в_два_счёта
+Int_угодно
+невесть_Int
+Num-Inst_Num-Nom_―_Num-Nom
+всё X и X
+не-ADV_бы_VP-Inf
+должен быть Inf
+VP_XP_попало
+За_NP-Acc_VP
+в_зависимости_от_NP-Gen
+так_бы_(и)_VP
+Почему бы не V-inf
+NP_VP_с_Num-Gen_лет
+Cl_(быть)_не_без_NP-Gen
+нет_чтобы/бы_VP-Inf,_Cl
+Не VP ничего
+NP_обернуться_NP-Ins
+чёрт_с_Pron-Ins
+VP_под_NP-Inst
+какой,_к_чёрту,_NP
+Переименовать_NP-Acc_в_NP-Acc
+незнамо_Interrog-Nom
+каков_N!
+всё A-ее|Adv-ее
+при_условии_NP-Gen
+NP-Nom_давай_VP-Inf
+NP-Nom за своё
+VP_что_ли?
+пока_что_Cl
+NP-Nom_VP_за_NP-Instr
+ничего я не VP
+NP-1_Q_Не_то_что_NP-2
+к_ужасу/счастью_NP-Gen,_Cl
+NP-Nom_пребывать_в_NP-Loc
+NP_как_V-Perf.FUT!
+Чтобы NP здесь не было
+я_PRON_VP-Fut!
+вроде_(как)_Cl
+должно_быть_CLAUSE_(PST)
+это ли не NP-Nom
+будет_PRONP-Dat_VP-Inf
+DicsC_Ай_да_NP
+То_ли_NP-1,_то_ли_NP-2
+Cl,_как_положено
+ходить_слух_что_Cl
+NP-Nom_всё_V-imp
+NP-Nom_начинать_NP-Ins
+то_ли_дело_NP
+Делать_Pro-Dat_нечего
+N_как_N
+ладно_бы_VP-Past
+Весом в NP
+c_NP-Inst
+слишком AP|VP, чтобы VP1
+NP-Dat_удалось_VP(pfv)
+само_собой,_Cl
+время_NP-Gen_(не)_пришло
+NP-Nom_умудриться_VP-Inf
+Num-Nom_на_Num-Nom_―_Num-Nom
+раз_(уж) _Clause
+Num_с_копейками
+Нечего V-Inf
+даже не V-imp
+NP-Nom_пере-VP-ся_NP-Ins
+Ничего_ADJ-Gen
+как_NP-1,_так_и_Np-2
+куда Adv-ее, чем NP, CLAUSE
+NP_того_стоить
+более_чем_Adv
+чтоб(ы)_Pron_V-Pst!
+NP_с_большой_буквы
+NP-Gen/VP_выше_крыши
+То V, то V
+что-то_вроде_NP-Gen
+60_километров_в_час
+Не_мешало_бы_VP-Inf
+вот и Adv-evaluation
+ничем не хуже/лучше
+(не)_время_VP-Inf
+всё_V-Imp_да_VP-Imp
+по_крайней_мере_Cl
+на_что_NP-Dat_NP-Nom?
+NP-Nom_чуть_не_VP
+NP-Nom_созданный-Short_для_NP-Gen
+NP-Nom_AP-Nom_до_NP-Gen
+человек_NP-Gen
+с_виду_Adj
+Столько_NP-Gen,_что_Cl
+Все X-е и X-е
+Сидеть_V
+как_NP_NP
+VP-Past_бы_,Cl_бы
+Cl_нет_так_нет
+из_милости_VP
+X_за_X-INSTR
+Всем N-Dat N
+Сплошной_NP
+попасть_в_NP-Acc
+VP-Inf_―_не_для_NP-Gen
+VP_―_и_будь_здоров
+где_бы_ни_VP-Past_Cl
+(Cl)_NP-Nom_VP-Imper
+мало_(ли)_CCONJ_Cl
+хороший-Short_NP-Nom!
+NP-Nom_так_и_VP
+NP-Nom_VP_NP-Dat
+ах_Pro_N!
+Всего лишь NP
+Далеко не NP
+оно_и_Cl
+XP_не_то_чтобы_Cl_а/но_Cl
+(NP-Nom)_только_что_VP-Pfv-Pst
+NP-Nom_самый_что_ни_на_есть_NP-Nom
+именно_VP
+чего_тут_ADJ-Gen/VP-Inf
+NP-Nom_V-V_и_Cl
+в_том-то_и_NP-Nom_Cl
+Adj-ее NP-Gen
+NP_за_NP-Acc
+бросить_VP-inf
+хватать NP
+Только_что_не_Cl
+NP-Nom_приходиться_NP-Dat_NP-Ins
+вроде_бы_CLAUSE
+VP-Past, и вот, пожалуйста
+(NP-Dat)_не_с_кем_VP-Inf
+переделать_NP-Acc_под_NP-Acc
+речь|выступление_перед_NP-Ins
+вот_тебе/вам_и_NP-Nom!
+у кого-то есть деньги на NP-2
+с Pro-Gen хватит
+NP_или_кто?
+давно пора VP
+V-prs не V-prs, а Clause
+NP-Nom_VP.trans.ipfv_одно_и_то_же
+чуть_что_―_Cl
+NP-Nom_VP_по_NP-Dat
+не_NP-1,_а_NP-2
+смотря_Interrog-Nom
+Нашел NP
+дай(те)_VP
+NP-Nom_и_VP
+выше головы N-Gen
+Здоров_VP-Inf
+Полный_NP-abstr
+как_NP-Nom,_так_и_NP-Nom
+VP_в_NUM_раз-Gen
+NP-Nom_(это)_ещё_ничего
+чуть_что_―_сразу_VP
+ой/ох/ах/ай_как_Adv!
+совсем_ещё_NP-Nom
+Один_NP
+Noun Noun-Ins, но Cl
+ну_и_что,_что_XP
+будет_Pron-Dat_NP-Nom
+Как_ни_V-imp
+При чем тут NP?
+вот_тебе_и_N
+Вследствие_NP-Gen
+никак_VP?
+как_насчёт_VP-Inf.Impf?
+ничего_NP-Nom
+NP-Nom_VP_под_шумок
+ладно_Pro-Dat_VP
+какой угодно NP
+На Х рублей
+не_стоит_VP
+NP_на_то_и_NP,_чтобы
+VP-Inf_во_что_бы_то_ни_стало
+VP незачем
+NP_за_NP-Inst
+Ишь какой Adj
+разве_N-Nom_не_N?
+VP-Imp_почём_зря
+NP-Nom_VP
+хоть_NP,_хоть_NP
+Куда_X-dat_до_Y-Gen
+без_малого_ Num
+так_вот_Cl
+такому Х, (как У,) Р
+NP_NP-Ins
+время_NP-Gen_прошло
+Как_не_VP-Inf!
+NP-Nom_какой
+(NP-Dat)_VP-Inf_некуда
+NP-Nom_идти_за_NP-Ins
+никакой_PRON_не_(быть-Past)_XP
+так_и_не_VP-Pst
+Этот-Nom_NP-Nom_не_про_NP-Acc
+в_связи_с_NP-Ins
+NP-Gen_бы
+по NP
+ничего_себе_(NP-Nom)
+что_до_NP-Gen,_то_Cl
+Где-то_XP
+Рублей_NUM
+Чего_V-Prs
+все_NUM_NP-Gen_(VP)
+VP_же_NP!
+надо_же,_Cl
+NP-Acc_убить_мало
+Словом,_CLAUSE
+за_NUM-Acc_(NP-Gen.Pl)
+вовсе_не_Adv
+едва_(ли)_не_ХP
+того_и_гляди_VP
+NP-Nom_относиться_к_числу_NP-Gen
+ну_и_NP-Nom!
+в прошлой NP
+NP-Nom_VP_лучше/не хуже_PRONP-Gen
+чем_X-ее_тем_Y-ее
+NP-Nom_числиться_на/в_NP-Loc
+только_бы_не_VP-pst/inf
+делать_вид,_что_CLAUSE
+по_мнению_N-Gen
+чем_бы_VP_VP_(бы)
+у NP1-Gen есть NP2
+будто_бы_VP
+вот_N!
+VP_все-таки
+Adv-ее_всех
+дался_PRON-Dat_этот_NOUN-Nom!
+Adv-ее, чем NP-Nom
+наи-АDj-йший из NP-Gen
+NP-Dat_идти_XP
+Не_такой_уж_и_Adj
+Только что V-pst
+NP-Dat_ли_не_V-Inf
+вот и V-imp
+Ну/так_уж_(и)_Cl
+NP-Nom.Pl_в_один_голос-Acc_VP
+что_такое_Cl
+VP-Imper_ещё_(мне/(у)_меня)
+VP-Past-таки!
+Размером|величиной_с_NP-Acc
+NP-то!
+Смотри(те)_не_VP-Imper
+N что надо
+не_совсем_VP-Past
+довольно_VP-inf
+NP-Nom_VP-VP_а_не_Cl
+ходить_NP-Nom_о|про_NP-Ins
+самый AP среди+NP-Gen
+что(чего)_Pron-Nom_устроить
+За X рублей
+сегодня_ХP,_завтра_XP
+как_бы_не_VP-Inf!
+NP-Nom_Vp_(до_NP-Gen)
+Под_видом_NP-Gen
+NP-Nom_в-VP-ся_в_NP-Acc
+пускай_XP
+XP_не_XP_(а)_Cl
+NP-Nom_из_AP-Gen
+когда_бы_ни_VP-Past_Cl
+V_VP
+NP-Dat_ли_VP-Inf
+(и)_не_говори(те)!
+быть-Fut_знать_как_Cl
+NP-Dat_стыдно_за_NP-Acc
+как_бы_VP
+едва_ли_VP
+NP-Nom_VP_изо_всех_сил
+какой_(там)_XP!
+лучше_VP-Imper
+надо же было VP
+NP-Nom_VP_NP-Ins(plural)_NP-Acc
+при_чем_здесь/тут_NP?
+кто с NP-1, кто с NP-2
+NP-Acc_отдать_в/на_NP-Acc
+бог_весть_Interrog-Nom
+так это NP
+NP_и_так__VP_(а)_Cl
+или X или Y
+NP-Nom_VP_NP-Acc_VP-Inf
+VP_под_NP-Acc
+всё_тот_же_NP
+абы_как/где/когда/что
+зайти VP
+в_качестве_NP
+NP_не_против
+умирать-1Pres_Cl
+Predic_ему
+NP-Nom_NP-Dat_показать-FUT!
+нужно быть NP
+чудо_какой_Adj
+NP-Gen!
+Не NP какой-нибудь
+без_пяти_минут_NP-Nom
+NP-Nom_от_NP-Gen
+VP_себе
+занимать Time
+NP-Dat_нельзя/можно_VP-Inf
+Cl_(да)_и_всё_тут
+ох_уж_этот_NP!
+готовность_NP-Gen_VP-Inf
+N_N-PL-Gen
+Cl,_а_то_VP-Fut
+(вот)_уже_NP-Nom_как_Cl
+согласно_N-Dat
+Будучи_NP-Ins_Cl
+VP_так_себе
+NP-Dat_стоить_VP-Inf
+S_вот_ещё!
+Pron-Nom_же_NP-Nom
+самый AP за+NP.acc NP
+надо Inf
+VP-Imper_NP-Nom_бы_VP-Past
+какой_из_PRON-Gen_NP-Nom?
+Нечего_V-inf
+благоволите_VP-Inf
+NP-Nom_носить_AP_характер
+чего NP не сделал, так это VP
+NP_в_том_числе_(и)_NP
+ни_с_того_ни_с_сего_Cl
+по-A-ее | по-Adv-ее
+Пошли_VP
+чем N-1 не N-2?
+VP-Inf_―_всё_равно_что_VP-Inf
+NP-Nom_на-VP_(много)NP-Gen
+XP_ничего
+только_и_знать_что_Cl
+ellipsis.in.coordinatiion
+NP-Nom_числиться_NP-Ins|Adj-Ins
+XP_очень_даже_XP!
+NP-Nom_VP_как_следует
+VP_что_ни_попадя
+руки_не_доходят_Cl
+Int_NP-Nom_только_Cl
+NP-Nom_(быть)_как_NP-Nom
+как_нельзя_Adv-ее_VP
+сначала NP-1, потом NP-2
+NP-Nom_отправиться_за_NP-Ins
+NP_Adj|N
+NP-Nom_из-под_NP-Gen
+с_тем_чтобы_VP
+NP_ни_при_чём
+(NP-Dat)_не_положено_VP-Inf
+V по NUM NP
+VP_в_соответствии_с_NP-Ins
+Cl_чем_не_NP-Nom
+при_NP-Loc
+Clause_с_тех_пор,_как_Clause
+Краснеть за NP
+чтоб_Pron-Nom_VP-Past.Perf!
+NP-Nom_VP_NP-Acc_NP-Ins
+VP_себе_(и)VP
+вряд ли
+что_бы_ни_VP-Past_Cl
+что_(это)_за_NP-Nom
+не то чтобы A-ее|Adv-ее NP.gen &lt;чем NP.nom&gt;
+Какой там V-pst!
+куда_Cmp
+по-VP-Past_и_будет
+NP-Nom_VP_по_NP-Dat
+NP-Nom_VP_(NP-Ins)
+чуть_ли_не_N
+по_NUM-Acc_NP-Gen_за_NP-Acc
+никакой_NP_не_VP-FUT
+чего_доброго_VP-Fut
+знать по NP
+NP-Nom_VP_точно_так_же,_как_(и)_NP-Nom
+Cl_(да)_что_(тут)_говорить!
+какой_VP-Inf.Perf!
+NP-Nom_только_и_делать_что_Cl
+Не_смей/*смей!_V-inf
+NP-Dat_всё_равно
+только_и_NP-Pl-Gen,что_Cl
+не_только_Cl,_но_и_Cl
+NP-Dat далеко до NP-Gen

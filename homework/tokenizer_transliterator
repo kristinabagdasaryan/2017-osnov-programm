@@ -3,7 +3,7 @@ import sys
 
 
 row_tok_sents = []
-tok_sents = [] #CLASS3_TOKENIZER
+tok_sents = [] 
 let_dict = {'а': 'a',
             'б': 'b',
             'в': 'v',
@@ -53,7 +53,7 @@ for toksent in row_tok_sents:
                 transword += letter
         inxtoksent.append([i, word, transword])
         i += 1
-    tok_sents.append(inxtoksent) #CLASS4.1_TRANSLITERATOR
+    tok_sents.append(inxtoksent)
 
 t = 0
 for q in tok_sents:

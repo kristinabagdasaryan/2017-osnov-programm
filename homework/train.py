@@ -1,7 +1,6 @@
-import json
+import sys
 import re
-text = open('POS.txt')
-text = text.read().split('\n')
+import string
 
 result = []
 readstates = []

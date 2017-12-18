@@ -1,9 +1,11 @@
 import re
+import sys 
 
 text = open('wiki.txt', encoding='utf-8-sig')
-text = text.read()
-text = re.sub('  ',' ',text)
-text = re.sub('\\n\\n',' ',text)
+for text in sys.stdin.readlines():
+    text = text.read()
+    text = re.sub('  ',' ',text)
+    text = re.sub('\\n\\n',' ',text)
 #print(set(text))
 sentences = re.split(' *[\.\?!][\'"\)\]]* *', text) #CLASS2_SEGMENTER
 

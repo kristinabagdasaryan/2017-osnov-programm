@@ -5,11 +5,11 @@ text = text.read()
 text = re.sub('  ',' ',text)
 text = re.sub('\\n\\n',' ',text)
 #print(set(text))
-sentences = re.split(' *[\.\?!][\'"\)\]]* *', text) #CLASS2
+sentences = re.split(' *[\.\?!][\'"\)\]]* *', text) #CLASS2_SEGMENTER
 
 
 row_tok_sents = []
-tok_sents = [] #CLASS3
+tok_sents = [] #CLASS3_TOKENIZER
 let_dict = {'а': 'a',
             'б': 'b',
             'в': 'v',
@@ -59,7 +59,7 @@ for toksent in row_tok_sents:
                 transword += letter
         inxtoksent.append([i, word, transword])
         i += 1
-    tok_sents.append(inxtoksent) #CLASS3
+    tok_sents.append(inxtoksent) #CLASS4.1_TRANSLITERATOR
 
 t = 0
 for q in tok_sents:

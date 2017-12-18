@@ -1,14 +1,6 @@
 import re
 import sys 
 
-text = open('wiki.txt', encoding='utf-8-sig')
-for text in sys.stdin.readlines():
-    text = text.read()
-    text = re.sub('  ',' ',text)
-    text = re.sub('\\n\\n',' ',text)
-#print(set(text))
-sentences = re.split(' *[\.\?!][\'"\)\]]* *', text) #CLASS2_SEGMENTER
-
 
 row_tok_sents = []
 tok_sents = [] #CLASS3_TOKENIZER
@@ -46,8 +38,8 @@ let_dict = {'а': 'a',
             'ю': 'ju',
             'я': 'ya'}
 
-for sent in sentences:
-    row_tok_sents.append(sent.split())
+for c in sys.stdin.readlines():
+    row_tok_sents.append(c.split())
 
 for toksent in row_tok_sents:
     i = 1
